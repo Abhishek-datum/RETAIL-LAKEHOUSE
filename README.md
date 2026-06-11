@@ -33,3 +33,10 @@ Business metrics:
 - Customer Retention
 - Delivery Performance
 - Payment Distribution
+
+## Project Structure
+src/
+sql/
+data/
+config/
+tests/
